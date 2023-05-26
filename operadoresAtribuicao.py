@@ -11,3 +11,4 @@ soma += valor
 quadrado = valor ** 2
 #NÃO é equivalente a
 quadrado **= 2
+
